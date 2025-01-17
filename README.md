@@ -1,4 +1,4 @@
-#Aplikasi Penjualan Mochi
+##Aplikasi Penjualan Mochi
 
 Aplikasi sederhana untuk penjualan mochi
 #Fitur Aplikasi
@@ -48,7 +48,7 @@ Aplikasi ini adalah aplikasi pertama saya yang saya upload di github, sambil men
 
 #LICENSE
 
-    Aplikasi ini menggunakan lisensi GNU GENERAL PUBLIC LICENSE
+    Aplikasi ini menggunakan lisensi 
 
 #Code of Conduct
    
@@ -56,7 +56,7 @@ Aplikasi ini adalah aplikasi pertama saya yang saya upload di github, sambil men
 
 #CONTRIBUTING
 
-    Untuk Detail kontribusi bisa dilihat pada 
+    Untuk Detail kontribusi bisa dilihat pada file CONTRIBUTING.md
 
 #Author
 
