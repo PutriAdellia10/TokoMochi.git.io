@@ -46,18 +46,6 @@ ISSUE
 
 Aplikasi ini adalah aplikasi pertama saya yang saya upload di github, sambil mencoba meraba-raba berbagai fitur di github. Untuk itu saya menggunakan project lama saya yang pastinya banyak kekurangan dan masalah. Untuk itu silahkan kirimkan issue, komentar, ataupun kontribusi agar saya bisa lebih paham dalam penggunaan github.
 
-#LICENSE
-
-    Aplikasi ini menggunakan lisensi 
-
-#Code of Conduct
-   
-    Aplikasi menggunakan contributur convenant pada
-
-#CONTRIBUTING
-
-    Untuk Detail kontribusi bisa dilihat pada file CONTRIBUTING.md
-
 #Author
 
     Putri Adellia
