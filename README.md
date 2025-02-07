@@ -3,7 +3,7 @@
 Aplikasi sederhana untuk penjualan mochi
 ## Fitur Aplikasi
 
-    Halamat Login untuk masuk sebagai admin atau customer.
+    Halaman Login untuk masuk sebagai admin atau customer.
     Halaman Admin untuk melakukan CRUD pada Database
     Halaman Pengguna untuk proses pembelian
 
