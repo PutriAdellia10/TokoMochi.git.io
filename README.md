@@ -16,21 +16,21 @@ Aplikasi ini dibuat menggunakan bahasa PHP, jadi Tools/ Software yang digunakan 
 
 ## Langkah penggunaan
 
-    Pastikan file berada di folder htdocs di xampp
-    Nyalakan Apache dan mysql di xampp
-    Import Database sql di localhost/phpmyadmin
-    Buka halaman di localhost/(nama folder project ini)
-    Login terlebih dahulu dengan username dan password untuk admin
-    untuk customer sudah dapat melihat aplikasi sebelum login tetapi tidak dapat melakukan pembelian, hanya akun yang terdaftar       dapat melakukan pembelian
-    cutomer harus melakukan registrasi terlebih dahulu lalu login dan lakukan pembelian
-    Untuk halaman Admin memiliki beberapa menu yaitu :
-        Menu Data Customer dan Produk digunakan untuk melakukan CRUD dan view detail
-        Menu Data Transaksi Produksi untuk menerima dan menolak pemesanan serta melihat detail pesanan
-        Menu Data laporan untuk melihat hasil laporan penjualan
-    Untuk halaman customer memiliki beberapa menu yaitu :
-        Menu Produk untuk melihat serta memesan produk
-        Menu keranjang untuk melihat produk yang sudah dipesan oleh customer
-    Logout untuk keluar dari aplikasi
+    Clone repository: git clone https://github.com/PutriAdellia10/tokomochi.git
+    Masuk ke folder project: cd tokomochi
+    Pastikan XAMPP berjalan dan import database di phpMyAdmin.
+    Buka browser dan akses: http://localhost/tokomochi
+    Login terlebih dahulu dengan username dan password untuk admin.
+    Untuk customer, aplikasi dapat dilihat sebelum login, tetapi pembelian hanya bisa dilakukan oleh akun yang terdaftar.
+    Customer harus registrasi terlebih dahulu, lalu login dan melakukan pembelian.
+    Halaman Admin memiliki beberapa menu:
+    Data Customer dan Produk: CRUD dan melihat detail data.
+    Data Transaksi Produksi: Menerima dan menolak pesanan serta melihat detail pesanan.
+    Data Laporan: Melihat hasil laporan penjualan.
+    Halaman Customer memiliki beberapa menu:
+    Produk: Melihat dan memesan produk.
+    Keranjang: Melihat produk yang sudah dipesan oleh customer.
+    Logout untuk keluar dari aplikasi.
 
 ## Demo
 
